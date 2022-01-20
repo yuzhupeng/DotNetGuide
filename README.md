@@ -1,13 +1,5 @@
 
 **🤝欢迎关注一起沟通学习，共同进步（获取更多.NET学习资料）**
-
-
-**💯.NET相关学习资料书籍PDF**
-> 注意：这些PDF资料仅限于个人学习若要商用请自行联系作者购买版权，这些资源均来源于网上若有侵权的PDF请联系我立马处理谢谢🤞
-
-![.NET相关学习资料书籍PDF](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/StudyInfomation001.png)
-
-
 ## 🔍目录(善用Ctrl+F)
 * [🏷️C#/.NET/.NET Core高质量教程收录栈](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🏫C#/.NET/.NET Core基础面试题](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98)
